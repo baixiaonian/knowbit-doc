@@ -5,4 +5,64 @@ updated_at: 2026-04-08T14:45:37.628687+00:00
 excerpt: name: wechat-article-writerdescription: 撰写微信公众号文章，包括标题、摘要、正文结构、排版风格，适用于品牌宣传、知识科普、产品推广等场景微信公众号文章写作技能文...
 ---
 
-<hr><p><span style="font-size: 16px;">name: wechat-article-writer<br>description: 撰写微信公众号文章，包括标题、摘要、正文结构、排版风格</span></p><hr><h1 id="heading-1"><span style="font-size: 16px;">微信公众号文章写作技能</span></h1><h2 id="heading-2"><span style="font-size: 16px;">文章结构规范</span></h2><p><span style="font-size: 16px;">文章必须包含以下部分：</span></p><ul><li><p><span style="font-size: 16px;"><strong>标题</strong>：15-30字，有吸引力</span></p></li><li><p><span style="font-size: 16px;"><strong>摘要</strong>：50-120字，概括核心价值</span></p></li><li><p><span style="font-size: 16px;"><strong>开头引入</strong>：用故事、数据或痛点切入</span></p></li><li><p><span style="font-size: 16px;"><strong>正文主体</strong>：分3-5个小节，段落简短</span></p></li><li><p><span style="font-size: 16px;"><strong>结尾收束</strong>：总结观点，引导行动</span></p></li></ul><h2 id="heading-3"><span style="font-size: 16px;">写作风格要求</span></h2><ul><li><p><span style="font-size: 16px;"><strong>口语化表达</strong>：像朋友聊天一样自然，避免书面化</span></p></li><li><p><span style="font-size: 16px;"><strong>段落短小</strong>：每段不超过5行，段间留白</span></p></li><li><p><span style="font-size: 16px;"><strong>善用金句</strong>：关键位置放入可转发的金句，加粗显示</span></p></li><li><p><span style="font-size: 16px;"><strong>节奏感</strong>：长短句交替，适当使用排比、反问</span></p></li><li><p><span style="font-size: 16px;"><strong>情绪共鸣</strong>：抓住读者情感痛点</span></p></li></ul><h2 id="heading-4"><span style="font-size: 16px;">排版规范</span></h2><ul><li><p><span style="font-size: 16px;">小标题使用 <strong>h3</strong> 或加粗文本</span></p></li><li><p><span style="font-size: 16px;">重点内容使用<strong>加粗</strong>标记</span></p></li><li><p><span style="font-size: 16px;">列表和数字编号提升信息密度</span></p></li><li><p><span style="font-size: 16px;">中英文、数字与中文之间加空格</span></p></li><li><p><span style="font-size: 16px;">全文字数 1500-3000 字，阅读时长 3-8 分钟</span></p></li></ul><h2 id="heading-5"><span style="font-size: 16px;">适用场景</span></h2><ul><li><p><span style="font-size: 16px;"><strong>品牌宣传</strong>：突出品牌故事和价值观</span></p></li><li><p><span style="font-size: 16px;"><strong>知识科普</strong>：将专业内容通俗化</span></p></li><li><p><span style="font-size: 16px;"><strong>产品推广</strong>：聚焦用户痛点和使用场景</span></p></li><li><p><span style="font-size: 16px;"><strong>热点评论</strong>：快速切入热点话题</span></p></li><li><p><span style="font-size: 16px;"><strong>经验分享</strong>：用第一人称讲述真实经历</span></p></li></ul><h2 id="heading-6"><span style="font-size: 16px;">Examples</span></h2><ul><li><p><span style="font-size: 16px;">时间管理文章 → 用职场焦虑场景切入，分享实用技巧</span></p></li><li><p><span style="font-size: 16px;">产品推广软文 → 了解产品卖点，用痛点场景开头</span></p></li><li><p><span style="font-size: 16px;">热点文章 → 从最新事件切入，提炼相关影响</span></p></li></ul><h2 id="heading-7"><span style="font-size: 16px;">Guidelines</span></h2><ul><li><p><span style="font-size: 16px;">站在读者角度思考内容价值</span></p></li><li><p><span style="font-size: 16px;">标题和开头需要反复打磨</span></p></li><li><p><span style="font-size: 16px;">默认使用轻松专业的语气</span></p></li><li><p><span style="font-size: 16px;">不要使用emoji表情符号</span></p></li><li><p><span style="font-size: 16px;">输出文章后附上修改建议</span></p></li></ul><p></p>
+
+
+---
+
+name: wechat-article-writer  
+description: 撰写微信公众号文章，包括标题、摘要、正文结构、排版风格
+
+
+
+---
+
+# 微信公众号文章写作技能
+
+## 文章结构规范
+
+文章必须包含以下部分：
+
+- **标题**：15-30字，有吸引力
+- **摘要**：50-120字，概括核心价值
+- **开头引入**：用故事、数据或痛点切入
+- **正文主体**：分3-5个小节，段落简短
+- **结尾收束**：总结观点，引导行动
+
+## 写作风格要求
+
+- **口语化表达**：像朋友聊天一样自然，避免书面化
+- **段落短小**：每段不超过5行，段间留白
+- **善用金句**：关键位置放入可转发的金句，加粗显示
+- **节奏感**：长短句交替，适当使用排比、反问
+- **情绪共鸣**：抓住读者情感痛点
+
+## 排版规范
+
+- 小标题使用 **h3** 或加粗文本
+- 重点内容使用**加粗**标记
+- 列表和数字编号提升信息密度
+- 中英文、数字与中文之间加空格
+- 全文字数 1500-3000 字，阅读时长 3-8 分钟
+
+## 适用场景
+
+- **品牌宣传**：突出品牌故事和价值观
+- **知识科普**：将专业内容通俗化
+- **产品推广**：聚焦用户痛点和使用场景
+- **热点评论**：快速切入热点话题
+- **经验分享**：用第一人称讲述真实经历
+
+## Examples
+
+- 时间管理文章 → 用职场焦虑场景切入，分享实用技巧
+- 产品推广软文 → 了解产品卖点，用痛点场景开头
+- 热点文章 → 从最新事件切入，提炼相关影响
+
+## Guidelines
+
+- 站在读者角度思考内容价值
+- 标题和开头需要反复打磨
+- 默认使用轻松专业的语气
+- 不要使用emoji表情符号
+- 输出文章后附上修改建议
+
