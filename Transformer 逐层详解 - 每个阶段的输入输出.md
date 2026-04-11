@@ -1,7 +1,7 @@
 ---
 title: Transformer 逐层详解 - 每个阶段的输入输出
 created_at: 2026-04-06T15:22:22.580321+00:00
-updated_at: 2026-04-08T14:45:33.875807+00:00
+updated_at: 2026-04-11T00:05:51.458318+00:00
 excerpt: 本文档使用一个具体的数值例子，展示 Transformer 模型每个组件的计算过程和输入输出的向量维度与内容。参数设定为了便于展示，使用极小的参数：参数值说明batch_size2批次大小seq_le...
 ---
 
@@ -1008,4 +1008,4 @@ Softmax 后 (概率分布):
    logits = output @ W_out             # 投影到词汇表
    probs = softmax(logits)             # 概率分布
    prediction = argmax(probs)          # 预测 token
-</code></pre><hr><h2 id="heading-46068">总结</h2><p>Transformer 的核心是<strong>自注意力机制</strong>，它让每个位置都能直接与所有其他位置交互，捕捉长距离依赖关系。</p><p><strong>数据流特点</strong>：</p><ol><li><p>维度稳定：<code>[batch, seq_len, d_model]</code> 贯穿全程</p></li><li><p>信息融合：每个位置通过注意力聚合全局信息</p></li><li><p>残差学习：便于训练深层网络</p></li><li><p>并行计算：所有位置同时处理（训练时）</p></li></ol><p><strong>Tokenization 是被忽略但至关重要的一步</strong>：</p><ul><li><p>原始文本 → 分词 → ID 映射 → Padding → 最终输入张量</p></li><li><p>不同的分词策略会显著影响模型性能</p></li></ul><p></p>
+</code></pre><hr><h2 id="heading-46068">总结</h2><p>Transformer 的核心是<strong>自注意力机制</strong>，它让每个位置都能直接与所有其他位置交互，捕捉长距离依赖关系。</p><p><strong>数据流特点</strong>：</p><ol><li><p>维度稳定：<code>[batch, seq_len, d_model]</code> 贯穿全程</p></li><li><p>信息融合：每个位置通过注意力聚合全局信息</p></li><li><p>残差学习：便于训练深层网络</p></li><li><p>并行计算：所有位置同时处理（训练时）</p></li></ol><p><strong>Tokenization 是被忽略但至关重要的一步</strong>：</p><ul><li><p>原始文本 → 分词 → ID 映射 → Padding → 最终输入张量</p></li><li><p>不同的分词策略会显著影响模型性能</p></li></ul>
